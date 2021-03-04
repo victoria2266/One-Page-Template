@@ -1,0 +1,85 @@
+html,
+body {
+    height: 100%;
+}
+
+#intro {
+    height: 60vh;
+    background: url(/img/montains.jpg)no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.form-control {
+   border: none;
+}
+
+.input-form {
+    border-bottom:  1px #cfd5dd solid;
+}
+
+.nav-btn {
+    border: none;
+    box-shadow: #c7cdd3;    
+}
+
+.nav-icon {
+    color: #cfd5dd;
+    font-size: 20px;
+}
+
+.header-container {
+    margin-top: 100px;
+}
+
+.header-icon {
+    color: #335679;
+}
+
+.form-control {
+    border: 1px solid #335679;
+}
+
+.card-img-top {
+    height: 250px;
+}
+
+.footer-content {
+    background-color:#90a2b1;
+}
+
+.footer-icons {
+    font-size: 25px;
+}
+
+.page-footer {
+    width: 100%;
+}
+
+.custom-shape-divider-bottom-1613747772 {
+    /* position: relative; */
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1613747772 svg {
+    /* position: relative; */
+    display: block;
+    width: calc(107% + 1.3px);
+    height: 204px;
+}
+
+.custom-shape-divider-bottom-1613747772 .shape-fill {
+    fill: #335679;
+}
+
+.text-uppercase:hover {
+    color: #1d2f41;
+}
+
