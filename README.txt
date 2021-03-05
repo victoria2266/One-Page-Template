@@ -1,1 +1,1 @@
-=== One Page Template ===
+One Page Template 
