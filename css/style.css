@@ -5,7 +5,7 @@ body {
 
 #intro {
     height: 60vh;
-    background: url(/img/montains.jpg)no-repeat center center fixed;
+    background: url(../img/montains.jpg)no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
